@@ -3,7 +3,9 @@
 🧠 Civil Engineering undergraduate student at Universitas Mulawarman<br>
 📊 I analyze raw dataset, plotting it and draw conclusion from them using a programming language<br>
 💻 Creating a responsive website for my projects<br>
-🎨 Love to design UI/UX with Figma<br> 
+🎨 Love to design UI/UX with Figma<br>
+
+<strong>Welcome to my page !<strong><br>
 
 
 ## 🌐 Socials:
